@@ -1,0 +1,49 @@
+/* styles.css */
+
+/* Set the background color */
+body {
+    background-color: rgb(214, 172, 214);
+}
+
+/* Center the content */
+h1, p {
+    text-align: center;
+}
+
+/* Style the input fields */
+input{
+    width: 180px;
+    margin-bottom: 10px;
+    height: 25px;
+    
+}
+
+/* Style the button */
+button {
+    background-color: rgb(190, 78, 190);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+    position: relative;
+    left: 700px;
+    bottom: 40px;
+}
+
+/* Adjust spacing */
+p {
+    margin-bottom: 20px;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+h1{
+    color: white;
+}
+
+#day{
+    position: relative;
+    bottom: 30px;
+}
